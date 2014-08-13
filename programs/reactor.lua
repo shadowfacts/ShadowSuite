@@ -1,4 +1,4 @@
-// Program to monitor a Big Reactors reactor assuming that the peripheral connection is on the back.
+-- Program to monitor a Big Reactors reactor assuming that the peripheral connection is on the back.
 
 local reactor
 
